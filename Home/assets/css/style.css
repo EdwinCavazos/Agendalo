@@ -1,0 +1,28 @@
+
+
+
+#navbar {
+    background-color: #3E66FB
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+/* SLIDER DE IMAGENES */
+
+ .slide {
+    margin-top:10px;
+}
+
+.slide img {
+    width: 100%;
+    height: 35rem;
+} 
+
+
+#carouselCategorias {
+    width: 100%;
+    height: 15rem;
+}
